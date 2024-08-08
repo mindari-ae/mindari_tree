@@ -1,3 +1,16 @@
+/*
+ *
+ * @devloper karthikeyan maruthachalam
+ * 
+ * @date aug 7, 2024 1:28 pm
+ * @project Mindari app
+ * 
+ * Performance Best Practices :
+ * https://docs.flutter.dev/perf/best-practices
+ * https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5
+ * 
+*/
+
 /// this class for comparing euqual class and objects in outside.
 abstract class MindariEquality<T> {
   int equals(T other);
